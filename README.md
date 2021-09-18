@@ -16,3 +16,14 @@ In this package you have 2 variables you need to enter `text` and `charLength`. 
 Call the function `textTrimmer(textString, 20);` to output a string with a limit of 20 characters
 
 It's important to note, this package will only accept strings! If the string length of the string is shorter than your `charLength` variable, you will just have your input returned. 
+
+## How to install
+Head to your terminal within your project directory and type:
+
+##### NPM
+`$ npm install text-trimmer`
+
+##### YARN
+`$ yarn add text-trimmer`
+
+### Thank you for using this package. Enjoy!
