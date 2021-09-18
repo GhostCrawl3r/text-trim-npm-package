@@ -1,6 +1,6 @@
 {
   "name": "text-trimmer",
-  "version": "1.4.0",
+  "version": "1.1.0",
   "description": "This package simply allows you to shorten strings to the required character length you input and concats a \"...\" to the end of the new string.",
   "main": "index.js",
   "scripts": {
