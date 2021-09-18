@@ -8,6 +8,6 @@ This package will turn:
 `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet quam id dui posuere blandit. Curabitur`
 
 to a length of your choosing for example 20 characters:
-`Lorem ipsum dolor si...`
+`Lorem ipsum dolor si...`  
 
 
