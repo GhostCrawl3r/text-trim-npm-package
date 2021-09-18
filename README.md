@@ -1,6 +1,6 @@
 # Text Trimmer NPM Package
 
-[![ghosrtcrawl3r - text-trim-npm-package](https://img.shields.io/static/v1?label=ghosrtcrawl3r&message=text-trim-npm-package&color=blue&logo=github)](https://github.com/ghosrtcrawl3r/text-trim-npm-package)
+[![ghosrtcrawl3r - text-trim-npm-package](https://img.shields.io/static/v1?label=ghosrtcrawl3r&message=text-trim-npm-package&color=blue&logo=github)](https://github.com/GhostCrawl3r/text-trim-npm-package)
 [![npm version](https://badge.fury.io/js/text-trimmer.svg)](https://badge.fury.io/js/text-trimmer)
 [![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![License](https://img.shields.io/badge/License-ISC-blue)](#license)
