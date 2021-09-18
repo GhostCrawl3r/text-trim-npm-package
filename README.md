@@ -1,7 +1,10 @@
 # Text Trimmer NPM Package
 
+[![ghosrtcrawl3r - text-trim-npm-package](https://img.shields.io/static/v1?label=ghosrtcrawl3r&message=text-trim-npm-package&color=blue&logo=github)](https://github.com/ghosrtcrawl3r/text-trim-npm-package)
 [![npm version](https://badge.fury.io/js/text-trimmer.svg)](https://badge.fury.io/js/text-trimmer)
-
+[![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![License](https://img.shields.io/badge/License-ISC-blue)](#license)
+![maintained - yes](https://img.shields.io/badge/maintained-yes-blue)
 
 I created this package because I found myself needing to trim text frequently and using the .concat function to add "..." to the end of text stings for posts, blogs etc within my fullstack applications.
 Rather than repeatedly making the same helper function for each project, I decided to make this npm package to save my time and hopefully others too.
