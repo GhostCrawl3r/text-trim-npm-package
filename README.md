@@ -15,4 +15,4 @@ to a length of your choosing for example 20 characters:
 In this package you have 2 variables you need to enter `text` and `charLength`. It's very simple to achieve the above. 
 Call the function `textTrimmer(textString, 20);` to output a string with a limit of 20 characters
 
-
+It's important to note, this package will only accept strings! If the string length of the string is shorter than your `charLength` variable, you will just have your input returned. 
