@@ -15,7 +15,17 @@
     "text",
     "shortner",
     "post",
-    "preview"
+    "preview",
+    "react",
+    "trim",
+    "trimmer",
+    "ellipsis",
+    "slice",
+    "string",
+    "customization",
+    "customisation",
+    "text length customization",
+    "text length customisation"
   ],
   "author": "Nick Morgan",
   "license": "ISC",
